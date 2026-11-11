@@ -17,7 +17,7 @@ The Student Task Tracker is a proposed system designed to help students organize
 - Project maintainer: Manages system requirements, updates, and documentation.
 
 ## Functional Requirements
-- FR-01: The system shall allow students to create a task with a title.
+- FR-01: Given a valid task title, when a student saves the task, the system shall display the new task in the task list without requiring a page refresh.
 - FR-02: The system shall display all saved tasks belonging to a student.
 - FR-03: The system shall allow students to mark a task as complete.
 
